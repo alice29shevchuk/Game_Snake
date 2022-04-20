@@ -79,6 +79,7 @@ namespace SnakeGame
                 Console.Write("*");
                 Console.SetCursorPosition(food.X, food.Y);
                 Console.Write("@");
+
             }
         }
         public void Up()
